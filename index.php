@@ -27,7 +27,7 @@
         <p> Analisando o número <strong> <?= $numero ?></strong>, temos: </p>
         <ul>
             <li>A sua raiz quadrada é <strong> <?php echo number_format($raizQuadrada, 3, ',') ?></strong> </li>
-            <li> A rua raiz cúbica é <strong> <?php echo number_format($raizCubica, 3, ',') ?></strong> </li>
+            <li> A sua raiz cúbica é <strong> <?php echo number_format($raizCubica, 3, ',') ?></strong> </li>
         </ul>
     </section>
     </form>
